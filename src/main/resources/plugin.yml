@@ -1,0 +1,6 @@
+name: Ssrbanmod
+version: '${project.version}'
+main: cn.ikaile.ssrbanmod
+commands:
+  ssrbanmod:
+    usage: /ssrbanmod on/off
